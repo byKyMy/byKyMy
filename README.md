@@ -1,7 +1,19 @@
--  I’m @byKyMy
--  I’m interested in coding ;)
--  I’m currently learning Java and Minecraft Development
--  For Contact join my Discord
+◇byKyMy◇
+
+♤14♤
+
+♧Germany♧
+
+♡Languages♡
+  ▪︎ Java
+
+》How2mc
+  ▪︎ Admin
+  ▪︎ 'How2mc' is my own Minecraft Network, everything i do there is self made.
+
+》UtopiaGER Minecraft
+  ▪︎ Admin & Developer
+  ▪︎ 'UtopiaGER Minecraft' is the Minecraft part of the Organisation 'UtpiaGER'.
 
 <!---
 byKyMy/byKyMy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
