@@ -4,15 +4,15 @@
 
 ♧Germany♧
 
-♡Languages♡
+♡Languages♡\
   ▪︎ Java
 
-》How2mc
-  ▪︎ Admin
+》How2mc\
+  ▪︎ Admin\
   ▪︎ 'How2mc' is my own Minecraft Network, everything i do there is self made.
 
-》UtopiaGER Minecraft
-  ▪︎ Admin & Developer
+》UtopiaGER Minecraft\
+  ▪︎ Admin & Developer\
   ▪︎ 'UtopiaGER Minecraft' is the Minecraft part of the Organisation 'UtpiaGER'.
 
 <!---
